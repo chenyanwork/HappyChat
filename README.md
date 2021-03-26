@@ -1,3 +1,6 @@
+# 运行方式
+直接打开doc下面的index.html 即可
+
 # HappyChat
 基于Netty实现的WebSocket聊天室，实现的功能如下：
 <br>
